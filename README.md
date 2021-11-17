@@ -29,6 +29,10 @@ All API requests must be made to your designated API URL using HTTPS protocol wi
 > It is important to note that some API calls can generate very long responses. Please review this documentation for performance recommendations.
 
 
+### FLUIDEFI DEVELOPER TOOLS 
+The FLUIDEFI RESTful API calls are fully documented and can be tested with 27 different programming language/frameworks using [FLUIDEFI on Postman](https://documenter.getpostman.com/view/7779070/TzXumzPL)
+
+
 ### FLUIDEFI SUPPORT
 Your Service Level Agreement (SLA) is based on your subscription level.
 
@@ -143,7 +147,7 @@ FLUIDEFI supports ISO 8601 standard format date and datetimes. All datetimes are
 Rate limits are based on your subscription level and vary between 5 and 60 calls per second.
 
 ### "Currently in Alpha" and "Currently in Beta"
-From time to time FLUIDEFI documentation may indicate an API call or parameter is currently in Alpha or Beta. "Currently in Beta" functionality is available to FLUIDEFI customers with access to our staging environment. "Currently in Alpha" functionality is available upon request to FLUIDEFI customers with dedicated servers.   
+From time to time, the FLUIDEFI documentation may indicate an API call or parameter is currently in Alpha or Beta. "Currently in Beta" functionality is available to FLUIDEFI customers with access to our staging environment. "Currently in Alpha" functionality is available upon request to FLUIDEFI customers with dedicated servers.
 
 ### STATUS CODES AND ERROR RESPONSES
 
