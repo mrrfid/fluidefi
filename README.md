@@ -131,7 +131,7 @@ Also, note that these two statements are equivalent and both report how much ret
 APY is the simpler way of reporting the same information. For this reason, <b>FLUIDEFI only provides APY figures</b>.
 
 ### SUPPORTED BASE CURRENCIES FOR CALCULATIONS
-FLUIDEFI currently supports 12 fiat currencies, gold, silver, and 7,975+ cryptocurrencies. Examples: USD, WETH, GBP, CAD, CHF, JPY, AUD, NZD, HKD, EUR, NOK, SEK, SGD, CNY, KRW, XAU8, & XAG. If you need a fiat currency that is not listed here, contact support using the method below.
+FLUIDEFI currently supports 12 fiat currencies, gold, silver, and 8,000+ cryptocurrencies. Examples: USD, WETH, GBP, CAD, CHF, JPY, AUD, NZD, HKD, EUR, NOK, SEK, SGD, CNY, KRW, XAU8, & XAG. If you need a fiat currency that is not listed here, contact support using the method below.
 
 ### PRECISION
 Note: the precision of a number is the total count of significant digits in the whole number, or, in other words, the number of digits to both sides of the decimal point. For example: the number 123.4567 has a precision of 7. FLUIDEFI supports a precision of 64 for the amount. It is not uncommon to have amounts displayed as 8 digits to the left of the decimal and 16 digits to the right.
