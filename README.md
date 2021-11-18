@@ -138,7 +138,7 @@ APY is the simpler way of reporting the same information. For this reason, <b>FL
 FLUIDEFI currently supports 12 fiat currencies, gold, silver, and 8,000+ cryptocurrencies. Examples: USD, WETH, GBP, CAD, CHF, JPY, AUD, NZD, HKD, EUR, NOK, SEK, SGD, CNY, KRW, XAU8, & XAG. If you need a fiat currency that is not listed here, contact support using the method below.
 
 ### PRECISION
-Note: the precision of a number is the total count of significant digits in the whole number, or, in other words, the number of digits to both sides of the decimal point. For example: the number 123.4567 has a precision of 7. FLUIDEFI supports a precision of 64 for the amount. It is not uncommon to have amounts displayed as 8 digits to the left of the decimal and 16 digits to the right.
+FLUIDEFI supports a precision of 160, which is the size of sqrtX96 variable in many smart-contracts used vr DeFi platforms. The precision of a number is the total count of significant digits in the whole number, or, in other words, the number of digits to both sides of the decimal point. For example: the number 123.4567 has a precision of 7. It is not uncommon to have amounts displayed as 8 digits to the left of the decimal and 16 digits to the right.
 
 ### DateTime Format
 FLUIDEFI supports ISO 8601 standard format date and datetimes. All datetimes are in UTC. The GET methods support YYYY-MM-DD. Example: "2021-06-01". POST methods support datetimes. Example: "2021-10-18T19:19:06.982417".
