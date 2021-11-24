@@ -1,5 +1,5 @@
 ### INTRODUCTION 
-The FLUIDEFI℠ platform provides near real-time <sup><a name="footnote1">1</a></sup> analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's analytics are calculated using the transaction logs on the Ethereum blockchain.
+The FLUIDEFI® platform provides near real-time <sup><a name="footnote1">1</a></sup> analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's analytics are calculated using the transaction logs on the Ethereum blockchain.
 
 The FLUIDEFI RESTful API allows developers to:
 - obtain detailed, accurate analytics of digital asset to identify investment opportunities across multiple platforms;
@@ -242,3 +242,7 @@ The following is a list of response codes and messages that will be included in 
 9200: Warning: Token A is WETH. Recipient will receive WETH tokens. Use ETH as token A for removing liquidity to ether
 
 9210: Warning: Token B is WETH. Recipient will receive WETH tokens. Use ETH as token B for removing liquidity to ether
+
+-------
+© 2021 FLUIDEFI® INC. All rights reserved. 
+FLUIDEFI® is a Registered Trademark of FLUIDEFI INC.
