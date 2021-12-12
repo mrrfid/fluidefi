@@ -17,7 +17,7 @@ The FLUIDEFI RESTful API allows developers to:
 ### ACCESS TO THE FLUIDEFI API
 Accessing the FLUIDEFI RESTful API requires:
 
-1. A username and password. This information is provided when enrolling for the FLUIDEFI services.
+1. A username and password. This information is provided when enrolling for the FLUIDEFI services. If you do not have an account, [contact us](https://fluidefi.com/#contact) to schedule a demonstration or get access.
 
 2. The API endpoint to use. The API end-point will be in the form of a URL. For example: https://my-api.fluidefi.com  
 > NOTE: **The API end-point URL for your account is provided when enrolling for the FLUIDEFI services.** Do not use the example listed.
