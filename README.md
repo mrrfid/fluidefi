@@ -3,7 +3,7 @@ FLUIDEFI® is an award-winning platform that provides near real-time <sup><a nam
 
 The FLUIDEFI RESTful API allows developers to:
 - obtain detailed, accurate analytics of digital asset to identify investment opportunities across multiple blockchains, networks, and platforms;
-- create portfolios of verious digital assets from multiple platforms;
+- create portfolios of various digital assets from multiple platforms;
 - model the portfolio's performance based on historical returns;
 - optimize the balances of the portfolios to maximize future profitability;
 - monitor and receive alerts when digital asset metrics reach specified values or change over periods of time;
