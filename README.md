@@ -1,9 +1,9 @@
 ### INTRODUCTION 
-FLUIDEFI® is an award-winning platform that provides near real-time <sup><a name="footnote1">1</a></sup> analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's analytics are calculated using blockchain transaction logs.
+FLUIDEFI® is an award-winning platform that provides near real-time <sup><a name="footnote1">1</a></sup> analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's analytics are calculated using blockchain transaction logs. FLUIDEFI is blockchain, network, and automatic market-maker (AMM) agnostic.
 
 The FLUIDEFI RESTful API allows developers to:
-- obtain detailed, accurate analytics of digital asset to identify investment opportunities across multiple platforms;
-- create portfolios of digital assets from multiple platforms;
+- obtain detailed, accurate analytics of digital asset to identify investment opportunities across multiple blockchains, networks, and platforms;
+- create portfolios of verious digital assets from multiple platforms;
 - model the portfolio's performance based on historical returns;
 - optimize the balances of the portfolios to maximize future profitability;
 - monitor and receive alerts when digital asset metrics reach specified values or change over periods of time;
