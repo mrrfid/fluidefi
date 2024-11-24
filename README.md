@@ -1,5 +1,5 @@
 ### INTRODUCTION 
-FLUIDEFI® is an award-winning platform that provides near real-time <sup><a name="footnote1">1</a></sup> analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's analytics are calculated using blockchain transaction logs. FLUIDEFI is blockchain, network, and automatic market-maker (AMM) agnostic.
+FLUIDEFI® is an award-winning platform that provides near real-time <sup><a name="footnote1">1</a></sup> compliant & auditable analytics, portfolio management, and alerting for thousands of decentralized financial (DeFi) digital assets. FLUIDEFI's metrics are calculated using blockchain transaction logs, not third party APIs. FLUIDEFI is blockchain, network, and automatic market-maker (AMM) agnostic.
 
 The FLUIDEFI RESTful API allows developers to:
 - obtain detailed, accurate analytics of digital asset to identify investment opportunities across multiple blockchains, networks, and platforms;
@@ -30,7 +30,7 @@ All API requests must be made to your designated API URL using HTTPS protocol wi
 
 
 ### FLUIDEFI DEVELOPER TOOLS 
-The FLUIDEFI RESTful API calls are fully documented and can be tested with 27 different programming language/frameworks using [FLUIDEFI on Postman](https://documenter.getpostman.com/view/7779070/TzXumzPL)
+The FLUIDEFI RESTful API calls are fully documented and can be tested with 27 different programming language/frameworks using [FLUIDEFI API Documentation](https://analytics.fluidefi.com/api/docs/)
 
 
 ### FLUIDEFI SUPPORT
